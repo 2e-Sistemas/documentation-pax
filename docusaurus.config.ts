@@ -11,15 +11,15 @@ const config: Config = {
   url: 'https://2e-sistemas.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/documentation-pax',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: '2e-sistemas', // Usually your GitHub org/user name.
   projectName: 'documentation-pax', // Usually your repo name.
   deploymentBranch: 'main',
-  onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
+  /*   onBrokenLinks: 'throw',
+  onBrokenMarkdownLinks: 'warn', */
   trailingSlash: false,
 
   // Even if you don't use internationalization, you can use this field to set
